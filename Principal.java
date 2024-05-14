@@ -3,6 +3,12 @@ public class Principal{
 		Moto motoLINDA = new Moto();
 		motoLINDA.acelerar();
 		motoLINDA.acelerar(2);
+	Bus yeimy = new Bus();
+	yeimy.acelerar();
+
+	Bus cindy = new Bus();
+	cindy.frenar();
 	}
+	
 
 }
